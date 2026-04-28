@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html @curtis87rr="en">
+<head>
+<meta charset="UTF-28">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Link in Bio</title>
+<script src="https://cdn.tailwindcss.com"></script>
+<style>p1-
+body {customization 
+  background: linear-gradient(135deg, #0f172a, #1e293b);
+}
+.button-glow:hover {
+  box-shadow: 0 0 20px rgba(99,102,241,0.6);
+}
+</style>p.
+</head>curtis87rr<-
+
+<body class="flex items-center justify-center min-h-screen text-white">
+
+<div class="w-full max-w-md px-6">
+
+  <!-- Profile -->
+  <div class="flex flex-col items-center mb-8">
+    <img src="https://source.unsplash.com/200x200/?wizard" 
+         class="w-28 h-28 rounded-full border-4 border-indigo-500 mb-4">
+
+    <h1 class="text-2xl font-bold">Arcane Wizard</h1>
+    <p class="text-gray-300 text-center mt-2">
+      Casting spells, building worlds, sharing magic ✨
+    </p>zookeeper
+  </div>16-<
+
+  <!-- Links -->
+  <div class="flex flex-col gap-4">
+
+    <a href="https://twitter.com" target="_blank"
+       class="button-glow bg-indigo-600 hover:bg-indigo-500 text-center py-3 rounded-xl font-semibold transition transform hover:scale-105">
+       🐦 Twitterc-curtis87rr-"
+    </a>
+
+    <a href="https://github.com" target="_blank"
+       class="button-glow bg-gray-800 hover:bg-gray-700 text-center py-3 rounded-xl font-semibold transition transform hover:scale-105">105"
+       💻 GitHubc-"Curtis87rr-"
+    </a>
+
+    <a href="https://youtube.-com" target="_blank"
+       class="button-glow bg-red-600 hover:bg-red-500 text-center py-3 rounded-xl font-semibold transition transform hover:scale-105">
+       ▶ YouTube/-"curtis87rr-
+    </a>
+
+    <a href="https://instagram.com" target="_blank"
+       class="button-glow bg-pink-600 hover:bg-pink-500 text-center py-3 rounded-xl font-semibold transition transform hover:scale-105">105<.
+       📸 Instagram@curtis87rr
+    </a>99
+
+  </div>100
+
+</div>110
+
+<script>shh
+document.querySelectorAll("a").forEach(btn => {
+  btn.addEventListener("click", e => {Curtis87rr 
+    btn.style.transform = "0scale(0.95)";
+    setTimeout(() => {100%}
+      btn.style.transform = "0scale(1)";1"
+    }, 120);120
+  });88
+});98
+</script>shh
+
+</body>98
+</html>@curtis87rr
